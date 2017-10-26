@@ -12,7 +12,7 @@
     "test": "mocha --reporter spec tools/testSetup.js \"src/**/*.test.js\"",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "Ogbuanya Austine Diribe",
   "license": "ISC",
   "dependencies": {
     "axios": "0.16.2",
