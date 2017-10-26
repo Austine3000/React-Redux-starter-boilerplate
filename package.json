@@ -1,5 +1,5 @@
 {
-  "name": "React-starter",
+  "name": "React-Redux boilerplate",
   "version": "1.0.0",
   "description": "React-Redux boilerplate for quickly Bootstrapping an application in react-redux",
   "main": "index.js",
