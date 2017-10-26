@@ -1,28 +1,26 @@
-* PROJECT TITLE:
+# React-Redux starter boilerplate.
 
-  - React-Redux starter boilerplate.
-
-* GETTING STARTED:
+## GETTING STARTED:
 
   - Clone the Repo https://github.com/Austine3000/React-Redux-starter-boilerplate.git. Open the folder in any IDE of your choice.
 
-* PREREQUISITES:
+## PREREQUISITES:
 
   - NODEJS
   - MOCHA
 
-* RUNING THE PROJECCT:
+## RUNING THE PROJECCT:
 
   - Navigate into the folder from cmd.
   - Run npm install on the project to install the node modules.
   - Run npm start to start the project.
   - Then you should have your project running on http://localhost:3003/
   
-* RUNNING THE TESTS:
+## RUNNING THE TESTS:
 
   - From your cmd run npm test. This would run the automated test for you. 
 
-* BUILT WITH:
+## BUILT WITH:
 
   - Javascript: The programming language.
   - React: Javascript UI library.
@@ -30,11 +28,11 @@
   - Mocha: The testing library.
   - Webpack: Build tool.
 
-* Versioning:
+## Versioning:
 
   - Used Git for versioning.
 
-* Authors:
+## Authors:
 
   - Ogbuanya Austine.
 
